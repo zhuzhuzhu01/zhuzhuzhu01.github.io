@@ -7,7 +7,7 @@ description: "猪猪猪公司 高效办公 为你提供最好的解决方案”
 keyword: "刷赞、关注、播放量、我们是专业的”
 url: "https://zhuzhuzhu01.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/klovien/zhuzhuzhu01.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.

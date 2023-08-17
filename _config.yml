@@ -1,10 +1,10 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
+title: 猪猪猪公司
+SEOTitle: 猪猪猪公司-让世界创造美好
 header-img: img/post-bg-desk.jpg
 email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+description: "猪猪猪公司，高效办公，为你提供最好的解决方案”
+keyword: "刷赞，关注，播放量，我们是专业的”
 url: "https://klovien.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
